@@ -1,1 +1,1 @@
-# Linear-Regression
+# ML_Algorithms
